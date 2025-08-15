@@ -15,11 +15,25 @@ h1#principal {
     background-color: rgb(6, 38, 10);
     border-radius: 5px;
     color: rgb(164, 236, 174);
-
 }
 h1 {
     color: rgb(6, 38, 10);
 }
 h2 {
-    color: rgb(60, 148, 60);
+    color: white;
+    width: 300px;
+    border-radius: 5px;
+
+}
+
+.basico {
+    background-color: #4BE248;
+}
+
+.intermediario {
+    background-color: #40C03D;
+}
+
+.avancado {
+    background-color: #349E33;
 }
